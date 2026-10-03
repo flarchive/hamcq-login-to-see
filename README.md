@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of hamcq/login-to-see.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/login-to-see) or the [upstream repository](https://github.com/HamCQ/flarum-ext-login-to-see).
 
-**0** versions archived · Latest: [`v1.1`](https://github.com/flarchive/hamcq-login-to-see/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v1.1`](https://github.com/flarchive/hamcq-login-to-see/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2025-12-03 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-login-to-see/tree/archive/v1.0) |
+| `v1.1` | 2025-12-03 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-login-to-see/tree/archive/v1.1) |
 
 Catalog entry: [packages/hamcq-login-to-see.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-login-to-see.json)
 
